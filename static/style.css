@@ -1,0 +1,42 @@
+h2 {
+    letter-spacing: 2px; 
+    font-size: 1.5rem
+}
+
+form {
+  padding-top:20px;
+  font-size: 24px;
+}
+
+.classify{
+  text-align:center;
+  margin:auto;
+  margin-top:200px;
+}
+
+.image-prediction, 
+.text-prediction{
+  margin-top: 100px;
+  text-align:center;
+}
+
+.pred_img {
+  width: 400px; 
+  height: 400px;
+}
+
+#pred  {
+  font-size: 60px; 
+  text-transform: uppercase;
+}
+
+#label {  
+  color: red; 
+  font-size: 4rem; 
+  text-transform: uppercase;
+}
+
+#classify_button {
+  font-size: 2rem; 
+  font-weight: bold;
+}
